@@ -1,6 +1,5 @@
-doc2.txt
-doc3.txt
-doc4.txt
-doc5.txt
-doc100.txt
-doc200.txt
+
+doc4
+doc5
+doc100
+doc200
